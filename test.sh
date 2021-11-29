@@ -1,1 +1,2 @@
-echo " This is a jenkis test"
+echo "This is a jenkis test"
+echo "Hello"
